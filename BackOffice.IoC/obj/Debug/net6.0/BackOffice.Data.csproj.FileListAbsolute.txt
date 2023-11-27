@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\bin\Debug\net6.0\BackOffice.Data.deps.json
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\bin\Debug\net6.0\BackOffice.Data.dll
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\bin\Debug\net6.0\BackOffice.Data.pdb
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\bin\Debug\net6.0\BackOffice.Domain.dll
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\bin\Debug\net6.0\BackOffice.Domain.pdb
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.csproj.CopyComplete
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.dll
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\refint\BackOffice.Data.dll
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\BackOffice.Data.pdb
+C:\Users\Mateus\Desktop\BackOffice\BackEnd\BackOffice\BackOffice.IoC\obj\Debug\net6.0\ref\BackOffice.Data.dll
